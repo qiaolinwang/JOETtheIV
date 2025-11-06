@@ -5,8 +5,8 @@
  
 - 🔭 I’m currently working on Speech LLM, Multimodal Fusion and Emotion Recognition models
 
-- 📫 You can reach me at qw2443@columbia.edu or joeyventicup@gmail.com.
-
+- 📫 My homepage [Qiaolin Wang](https://qiaolinwang.github.io/)
+  
 - 💻 I have a deep interest in Speech Processing and Large Language Models.
 
 - 📄 I hold a Bachelor of Computer Science and Engineering and am pursuing a Master's in Electrical Engineering starting Fall 2024.
