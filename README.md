@@ -11,8 +11,6 @@
 
 - 📄 I hold a Bachelor of Computer Science and Engineering and am pursuing a Master's in Electrical Engineering starting Fall 2024.
 
-- 🍰 My bilibili acount: [Venti_J的个人空间](https://b23.tv/6tNEr6t)
-
 - ⚡ I am also a hip-hop music artist and producer! Check out my Netease Cloud Music:  [Venti_J的歌手页](https://music.163.com/#/artist?app_version=8.8.20&id=37561474&dlt=0846)
 
 <p align="center">
